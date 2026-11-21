@@ -1,0 +1,16 @@
+{
+  "name": "SIKAP — Akhlak Quest",
+  "short_name": "SIKAP",
+  "description": "Game pembelajaran Akidah Akhlak berbasis skenario untuk pelajar.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#071d16",
+  "theme_color": "#071d16",
+  "lang": "id-ID",
+  "categories": [
+    "education",
+    "games"
+  ]
+}
